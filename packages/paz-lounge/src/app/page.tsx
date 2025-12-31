@@ -20,7 +20,7 @@ export default function Landing() {
           </div>
 
           <h1 className="text-[clamp(32px,7vw,72px)] font-bold tracking-tight leading-tight">
-            They're Watching.<br />
+            They&apos;re Watching.<br />
             <span className="text-red-500">Everything.</span>
           </h1>
           
@@ -61,7 +61,7 @@ export default function Landing() {
               </div>
               <h3 className="text-2xl font-bold mb-4">Your Phone</h3>
               <p className="text-gray-400 leading-relaxed">
-                Every app, every search, every location. They know where you go, who you talk to, and what you're thinking about buying.
+                Every app, every search, every location. They know where you go, who you talk to, and what you&apos;re thinking about buying.
               </p>
             </div>
 
@@ -111,7 +111,7 @@ export default function Landing() {
           </h2>
           
           <p className="text-[clamp(18px,3vw,22px)] text-gray-300 max-w-2xl mx-auto leading-relaxed">
-            True privacy isn't a dream. It's a right. Secure Legion protects you from Big Tech surveillance, giving you complete control over your digital life.
+            True privacy isn&apos;t a dream. It&apos;s a right. Secure Legion protects you from Big Tech surveillance, giving you complete control over your digital life.
           </p>
 
           <div className="pt-8 space-y-4">
